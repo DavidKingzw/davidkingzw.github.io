@@ -4,13 +4,38 @@
   
     
     <entry>
+      <title>git.md</title>
+      <link href="2020/10/08/git-md/"/>
+      <url>2020/10/08/git-md/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>test</title>
       <link href="2020/09/27/test/"/>
       <url>2020/09/27/test/</url>
       
-        <content type="html"><![CDATA[<h1 id="test1"><a href="#test1" class="headerlink" title="test1"></a>test1</h1><p>test deploy</p>]]></content>
+        <content type="html"><![CDATA[<a id="more"></a><h1 id="test1"><a href="#test1" class="headerlink" title="test1"></a>test1</h1><p>test deploy</p>]]></content>
       
       
+      <categories>
+          
+          <category> test_categ </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> test_tag </tag>
+            
+        </tags>
       
     </entry>
     
